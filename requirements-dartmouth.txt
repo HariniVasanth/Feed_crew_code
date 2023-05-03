@@ -1,0 +1,7 @@
+
+
+requests
+zeep
+planon==7.0.7
+pandas
+
